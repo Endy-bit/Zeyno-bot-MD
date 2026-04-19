@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbCIFecBadmZCxG8ug0W">
+  <a href="https://whatsapp.com/channel/0029VbBsqvyF1YlXIC2zUh1N">
     <img src="https://img.shields.io/badge/CANALE_WHATSAPP-UNISCITI_ORA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canale WhatsApp" />
   </a>
 </p>
