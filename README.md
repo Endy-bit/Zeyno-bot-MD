@@ -91,7 +91,7 @@
 </p>
 
 * **Sviluppatore:** Endy 
-* **Supporto WhatsApp:** [+39 350 198 9497 0693](https://wa.me/393501989497)
+* **Supporto WhatsApp:** [+39 350 198 9497](https://wa.me/393501989497)
 * **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/EPY9EqMNV6XD0PmVk8jbEb?mode=gi_t)
 
 <p align="center">
