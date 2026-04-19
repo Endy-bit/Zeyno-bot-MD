@@ -22,10 +22,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=DESCRIZIONE;SPECIFICHE+TECNICHE" alt="Descrizione" />
 </p>
 
-**BLD-BLOOD-BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
+**ZEYNO-BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
 
 * **Core Ultra-Rapido:** Sviluppato in Node.js (V16+) con architettura asincrona.
-* **Sicurezza:** Algoritmo Anti-Ban 4.0 con rotazione degli header.
+* **Sicurezza:** Algoritmo Anti-Ban 5.0 con rotazione degli header.
 * **Stabilità:** Gestione intelligente dei messaggi per prevenire crash.
 
 ---
