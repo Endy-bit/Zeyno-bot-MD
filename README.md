@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=GUIDA;INSTALLAZIONE+DETTAGLIATA" alt="Installazione" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=GUIDA;INSTALLAZIONE+DETTAGLIATA" alt="Installazione" />
 </p>
 
 ### 📱 METODO 1: TERMUX (Android)
