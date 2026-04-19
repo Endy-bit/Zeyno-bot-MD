@@ -87,15 +87,15 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=STAFF;CONTATTI" alt="Staff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=STAFF;CONTATTI" alt="Staff" />
 </p>
 
-* **Sviluppatore:** Blood 
-* **Supporto WhatsApp:** [+39 370 133 0693](https://wa.me/393701330693)
-* **Community:** [UNISCITI AL CANALE](https://whatsapp.com/channel/0029VbCIFecBadmZCxG8ug0W)
+* **Sviluppatore:** Endy 
+* **Supporto WhatsApp:** [+39 350 198 9497 0693](https://wa.me/393501989497)
+* **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/EPY9EqMNV6XD0PmVk8jbEb?mode=gi_t)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+BLD-BLOOD-BOT!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+ZEYNO-BOT-MD!" alt="Thanks" />
 </p>
 
 <p align="center">
