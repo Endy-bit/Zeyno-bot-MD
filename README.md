@@ -71,17 +71,17 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=STATISTICHE;LIVE+REPORT" alt="Analisi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=STATISTICHE;LIVE+REPORT" alt="Analisi" />
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/BLOOD212/BLD-BLOOD-BOT" alt="Views" />
-  <img src="https://img.shields.io/github/forks/BLOOD212/BLD-BLOOD-BOT?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/BLOOD212/BLD-BLOOD-BOT?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
+  <img src="https://gpvc.arturio.dev/Endy-bit/Zeyno-bot-MD" alt="Views" />
+  <img src="https://img.shields.io/github/forks/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BLOOD212&repo=BLD-BLOOD-BOT&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Endy-bit&repo=Zeyno-bot-MD&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
 </p>
 
 ---
