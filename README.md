@@ -62,11 +62,11 @@
 2.  **Persistenza con PM2:**
     ```bash
     npm install -g pm2
-    pm2 start index.js --name "blood-bot"
+    pm2 start index.js --name "endy-bot"
     pm2 save
     pm2 startup
     ```
-3.  **Monitoraggio:** Usa `pm2 logs ENDY` per visualizzare il QR Code e i log.
+3.  **Monitoraggio:** Usa `pm2 logs Endy-bot` per visualizzare il QR Code e i log.
 
 ---
 
