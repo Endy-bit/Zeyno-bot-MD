@@ -44,8 +44,8 @@
     ```
 2.  **Clone del Bot:**
     ```bash
-    git clone [https://github.com/BLOOD212/BLD-BLOOD-BOT.git](https://github.com/BLOOD212/BLD-BLOOD-BOT.git)
-    cd BLD-BLOOD-BOT
+    git clone [https://github.com/Endy-bit/Zeyno-bot-MD.git](https://github.com/Endy-bit/Zeyno-bot-MD.git)
+    cd Zeyno-bot-MD
     ```
 3.  **Avvio:**
     ```bash
@@ -66,7 +66,7 @@
     pm2 save
     pm2 startup
     ```
-3.  **Monitoraggio:** Usa `pm2 logs blood-bot` per visualizzare il QR Code e i log.
+3.  **Monitoraggio:** Usa `pm2 logs ENDY` per visualizzare il QR Code e i log.
 
 ---
 
