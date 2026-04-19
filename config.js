@@ -21,27 +21,27 @@ global.owner = [
   ['447393088288', 'ksav', true], 
   ['212693877842', 'medalis', true],
   ['393756972784', 'estreia', true],
-  ['
+  ['447935218835', 'exorcism', true],
 ]
 global.mods = ['xxxxxxxxxxx', 'xxxxxxxxxxx', 'xxxxxxxxxxx']
 global.prems = ['xxxxxxxxxxx', 'xxxxxxxxxxx', 'xxxxxxxxxxx']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = 'BLD-BLOOD'
-global.nomebot = 'BLD-BLOOD'
-global.wm = 'BLD-BLOOD'
-global.autore = 'BLOOD'
-global.dev = 'BLOOD'
-global.testobot = `BLD-BLOOD`
+global.nomepack = '𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮'
+global.nomebot = '𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮'
+global.wm = '𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮'
+global.autore = '乇✘dy'
+global.dev = '乇✘dy'
+global.testobot = `𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮`
 global.versione = pkg.version
-global.errore = '*ERRORE INATTESO*, UTILIZZA IL COMANDO .segnala (errore) per contattare lo sviluppatore. contatto diretto:+39 370 133 0693'
+global.errore = '*ERRORE INATTESO*, UTILIZZA IL COMANDO !segnala (errore) per contattare lo sviluppatore. contatto diretto:+39 350 198 9497'
 
 /*⭑⭒━━━✦❘༻🌐 LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot ='https//wa.me/393701330693'
-global.gruppo = 'https://chat.whatsapp.com/KdLKg5DoZ2CGrNlbqJRdV9'
-global.insta = 'https://www.instagram.com/bloodvelith'
+global.repobot ='https//wa.me/393501989497'
+global.gruppo = 'https://chat.whatsapp.com/EPY9EqMNV6XD0PmVk8jbEb?mode=gi_t'
+global.insta = ''
 
 /*⭑⭒━━━✦❘༻ MODULI ༺❘✦━━━⭒⭑*/
 
